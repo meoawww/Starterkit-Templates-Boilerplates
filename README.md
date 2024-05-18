@@ -14,6 +14,7 @@ Quality here is subjective, we determine a template is worthy to be listed based
 ### Nextjs
 | Boilerplate Name                                          | Cost Type            | Tech Stacks                |
 |-----------------------------------------------------------|----------------------|----------------------------|
+| [ShipFast](https://techajob.com/template/shipfast/)         | Free / Open Source   | Javascript, Mailgun, MongoDB, Next.js, Stripe, Supabase, Typescript|
 | [T3 – streamline the setup of Next.js apps](https://techajob.com/template/t3-streamline-the-setup-of-next-js-apps/)                 | Free / Open Source   | Drizzle ORM, Next.js, NextAuth, Prisma, Tailwind CSS, Typescript                    |
 | [SaaS starter](https://techajob.com/template/saas-starter-w-next-js-supabase-stripe-and-shadcn-ui/)  | Free / Open Source   | Next.js, Resend, Stripe, Supabase, Tailwind CSS |
 | [Supastarter – Starterkit for Nextjs and Nuxtjs](https://techajob.com/template/supastarter-starterkit-for-nextjs-and-nuxtjs/)            | Expensive($$$)       | LemonSqueezy, Lucia Auth, MongoDB, MySQL, Next.js, Nuxt.js, PostgreSQL, Postmark, Prisma, r2, Resend, s3, SQLite, Stripe, Supabase, Tailwind CSS|
