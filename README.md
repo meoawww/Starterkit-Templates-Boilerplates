@@ -14,15 +14,15 @@ Quality here is subjective, we determine a template is worthy to be listed based
 ### Nextjs
 | Boilerplate Name                                          | Cost Type            | Tech Stacks                |
 |-----------------------------------------------------------|----------------------|----------------------------|
-| T3 – streamline the setup of Next.js apps                 | Free / Open Source   | Drizzle ORM, Next.js, NextAuth, Prisma, Tailwind CSS, Typescript |
-| SaaS starter w/ Next.js, Supabase, Stripe, and shadcn/ui  | Free / Open Source   | Next.js, Supabase, Stripe, shadcn/ui |
-| Supastarter – Starterkit for Nextjs and Nuxtjs            | Expensive($$$)       | Next.js, Nuxt.js           |
-| SAAS Starter – Nextjs & TailwindCSS SAAS starter kit      | Moderate($$)         | Next.js, TailwindCSS       |
-| Spike – NextJs Admin Template                             | Free / Open Source   | Next.js                    |
-| Remult – Full-stack CRUD Framework                        | Free / Open Source   | Next.js                    |
-| Next.js Boilerplate                                       | Free / Open Source   | Next.js                    |
-| Divjoy – A codebase generator                             | Expensive($$$)       | Next.js                    |
-| Makerkit – A SaaS Starter Kit                             | Expensive($$$)       | Next.js                    |
-| Boilerbay – Next.Js SaaS Bundle To Launch Apps            | Expensive($$$)       | Next.js                    |
-| Mosaic – A Tailwind CSS Admin Dashboard Template          | Moderate($$)         | Next.js, TailwindCSS       |
-| Taxonomy – Nextjs opensource boilerplate                  | Free / Open Source   | Next.js                    |
+| [T3 – streamline the setup of Next.js apps](https://techajob.com/template/t3-streamline-the-setup-of-next-js-apps/)                 | Free / Open Source   | Drizzle ORM, Next.js, NextAuth, Prisma, Tailwind CSS, Typescript                    |
+| [SaaS starter](https://techajob.com/template/saas-starter-w-next-js-supabase-stripe-and-shadcn-ui/)  | Free / Open Source   | Next.js, Resend, Stripe, Supabase, Tailwind CSS |
+| [Supastarter – Starterkit for Nextjs and Nuxtjs](https://techajob.com/template/supastarter-starterkit-for-nextjs-and-nuxtjs/)            | Expensive($$$)       | LemonSqueezy, Lucia Auth, MongoDB, MySQL, Next.js, Nuxt.js, PostgreSQL, Postmark, Prisma, r2, Resend, s3, SQLite, Stripe, Supabase, Tailwind CSS|
+| [SAAS Starter – Nextjs & TailwindCSS SAAS starter kit](https://techajob.com/template/saas-starter-nextjs-tailwindcss-saas-starter-kit/)      | Moderate($$)         | Framer Motion, Next.js, Tailwind CSS       |
+| [Spike – NextJs Admin Template](https://techajob.com/template/spike-nextjs-admin-template/)                             | Free / Open Source   | Axios, Material UI, Next.js, React, Typescript                    |
+| [Remult – Full-stack CRUD Framework](https://techajob.com/template/remult-full-stack-crud-framework/)                        | Free / Open Source   | Express.js, MongoDB, MySQL, Nest.js, Next.js, Node.js, Nuxt.js, PostgreSQL, SQLite, Sveltekit                    |
+| [Next.js Boilerplate](https://techajob.com/template/next-js-boilerplate/)                                       | Free / Open Source   | Clerk, Drizzle ORM, Next.js, Tailwind CSS, Turso, Typescript                    |
+| [Divjoy – A codebase generator](https://techajob.com/template/divjoy-a-codebase-generator/)                             | Expensive($$$)       | Bootstrap, Bulma, ConvertKit, Firebase, Gatsby, Mailchimp, Material UI, Next.js, React, Stripe, Supabase, Tailwind CSS                    |
+| [Makerkit – A SaaS Starter Kit](https://techajob.com/template/makerkit-a-saas-starter-kit/)                             | Expensive($$$)       | Firebase, Next.js, Remix, Stripe, Supabase, Tailwind CSS, Typescript                    |
+| [Boilerbay – Next.Js SaaS Bundle To Launch Apps](https://techajob.com/template/boilerbay-next-js-saas-bundle-to-launch-apps/)            | Expensive($$$)       | ChatGPT, Langchain 🦜, LemonSqueezy, Next.js, PostgreSQL, Prisma, Resend, Stripe, Tailwind CSS, Typescript                    |
+| [Mosaic – A Tailwind CSS Admin Dashboard Template](https://techajob.com/template/mosaic-a-tailwind-css-admin-dashboard-template/)          | Moderate($$)         | HTML, Laravel, Next.js, React, Tailwind CSS, Vue       |
+| [Taxonomy – Nextjs opensource boilerplate](https://techajob.com/template/taxonomy/)                  | Free / Open Source   | MDX, Next.js, NextAuth, Radix UI, React, Stripe, Tailwind CSS                    |
